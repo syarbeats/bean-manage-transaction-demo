@@ -19,9 +19,6 @@ Step
 4. Import to Netbeans Project
 ```
 
-### URL
-
-![stack Overflow](https://thumb.ibb.co/c3udzn/IMG.png)
 
 ```
 Display All Employee
