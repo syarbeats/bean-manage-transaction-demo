@@ -17,6 +17,8 @@ Step
 2. Create datasource that using connection pooling above and name it jdbc/zeus
 3. git clone https://github.com/syarbeats/bean-manage-transaction-demo.git
 4. Import to Netbeans Project
+5. Clean & Build
+6. Deploy to glassfish server 
 ```
 
 
